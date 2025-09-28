@@ -1,0 +1,2 @@
+def indicator(number, base):
+    
